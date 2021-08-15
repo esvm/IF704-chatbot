@@ -7,3 +7,6 @@ A chatbot created for PLN Subject
 * Edjan Michiles (esvm@cin.ufpe.br)
 * Pedro Queiroga (psq@cin.ufpe.br)
 * Rodrigo Falcão (rmmaf@cin.ufpe.br)
+
+### Comandos Requeridos
+pip install google-cloud-translate==2.0.1
