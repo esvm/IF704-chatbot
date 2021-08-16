@@ -1,0 +1,2 @@
+google-cloud-translate==2.0.1
+rasa==2.8.2

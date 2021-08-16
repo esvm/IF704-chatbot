@@ -8,5 +8,5 @@ A chatbot created for PLN Subject
 * Pedro Queiroga (psq@cin.ufpe.br)
 * Rodrigo Falcão (rmmaf@cin.ufpe.br)
 
-### Comandos Requeridos
-pip install google-cloud-translate==2.0.1
+### Setup
+pip install -r requirements.txt
