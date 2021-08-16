@@ -230,16 +230,16 @@ nlu:
     - how would i say [thank you](phrase) if i were [mexican](lang)
     - how would i say [what is your name](phrase) if i were [french](lang)
     - how would i say [i must be going now](phrase) if i were [german](lang)
-    - how do i say bathroom in italian 
-    - how might i say hello if i were scottish 
-    - i must know how to say thank you in german 
-    - how would i say i love you if i were german 
-    - how would i say how are you today if i were mexican 
-    - how would i say where is the bathroom if i were korean 
-    - how would i say i need directions if i were french 
-    - how would i say i am lost if i were japanese 
-    - english to spanish for dog 
-    - what is dog in spanish 
-    - how do you say dog in spanish 
-    - dog in spanish 
-    - what's the spanish word for dog 
+    - how do i say [bathroom](phrase) in [italian](lang)
+    - how might i say [hello](phrase) if i were [scottish](lang)
+    - i must know how to say [thank you](phrase) in [german](lang)
+    - how would i say [i love you](phrase) if i were [german](lang)
+    - how would i say [how are you today](phrase) if i were [mexican](lang)
+    - how would i say [where is the bathroom](phrase) if i were [korean](lang)
+    - how would i say [i need directions](phrase) if i were [french](lang)
+    - how would i say [i am lost](phrase) if i were [japanese](lang)
+    - english to [spanish](lang) for [dog](phrase)
+    - what is [dog](phrase) in [spanish](lang)
+    - how do you say [dog](phrase) in [spanish](lang)
+    - [dog](phrase) in [spanish](lang)
+    - what's the [spanish](lang) word for [dog](phrase)
