@@ -156,80 +156,80 @@ nlu:
     - translate [hello english]("phrase"] to [french]("lang")
     - what is [hello]("phrase") in [french]("lang")
     - what phrase means [goodbye]("phrase") in [hawaii]("lang")
-    - what spanish word means hello 
-    - translate hello to french 
-    - translate english to french hello 
-    - what is the word for hello spanish 
-    - how do they say goodbye in hawaii 
-    - what's local slang for goodbye in hawaii 
-    - how do you say hello in french 
-    - tell me how to say hello in spanish 
-    - what do i say for goodbye in hawaii 
-    - translate hello into french for me 
-    - how do i say hello in french 
-    - translate for me hello into french 
-    - how would they say say goodbye in hawaii 
-    - what is spanish for hello 
-    - how would i say hello in french 
-    - how can i say i love you in italy 
-    - what is spanish for good morning 
-    - how do you say it's snowing in german 
-    - how would you say can i borrow five dollars in portuguese 
-    - do you know how to say where is the restroom in french 
-    - how would i say pleased to meet you if i were japanese 
-    - can you translate hello into swedish for me 
-    - can you translate i love you into french for me 
-    - can you translate where's the bar into irish for me 
-    - how would i say goodbye if i were norwegian 
-    - how would i say i love you if i were french 
-    - how would i say hello if i were swedish 
-    - can you translate good bye into russian for me 
-    - can you translate i have to go pee into korean for me 
-    - how would i say i'm not guilty if i were mexican 
-    - how do you say thank you in spanish 
-    - how does one say thank you in spanish 
-    - how can i say thank you in spanish 
-    - what is thank you in spanish 
-    - what is the way to say thank you in spanish 
-    - how do they say \who is your father\ in german 
-    - how do they say \where's the bathroom\ in spanish 
-    - how do they say \how's it going\ in swahili 
-    - how do they say \i love you\ in japanese 
-    - how do they say \what's up\ in chinese 
-    - how do you say thank you in german 
-    - how do you say please in arabic 
-    - how do you say cat in spanish 
-    - how do you say i'm hungry in french 
-    - how do you say i need coffee in dutch 
-    - how do they say yes in brazil 
-    - can you translate cat into russian for me 
-    - can you translate bowl into russian for me 
-    - how do they say hello in france 
-    - i wanna know a phrase in spanish 
-    - can you translate bat into russian for me 
-    - how do they say no in germany 
-    - can you translate hi into spanish for me 
-    - i wanna learn a phrase in russian 
-    - how do they say hello in germany 
-    - can you translate milk into spanish for me 
-    - how do they say hello in brazil 
-    - how would you say fly in italian 
-    - what's the spanish word for pasta 
-    - how would they say butter in zambia 
-    - how do you say fast in spanish 
-    - what's the word for trees in norway 
-    - how does one say wonderful in german 
-    - how do they say tacos in mexico 
-    - how would one say cruiser in china 
-    - what's the french word you use for potato 
-    - what would the word for grass be in finland 
-    - how do you say please in french 
-    - how would i say nice to meet you if i were russian 
-    - what is the right way to say excuse me in spanish 
-    - how do i say i'm sorry in chinese 
-    - how would i say thank you if i were mexican 
-    - how would i say what is your name if i were french 
-    - how would i say i must be going now if i were german 
+    - what [spanish]("lang") word means [hello]("phrase")
+    - translate [hello]("phrase") to [french]("lang")
+    - translate english to [french]("lang") [hello]("phrase")
+    - what is the word for [hello]("phrase") [spanish]("lang")
+    - how do they say [goodbye]("phrase") in [hawaii]("lang")
+    - what's local slang for [goodbye]("phrase") in [hawaii]("lang")
+    - how do you say [hello]("phrase") in [french]("lang")
+    - tell me how to say [hello]("phrase") in [spanish]("lang")
+    - what do i say for [goodbye]("phrase") in [hawaii]("lang")
+    - translate [hello]("phrase") into [french]("lang") for me
+    - how do i say [hello]("phrase") in [french]("lang")
+    - translate for me [hello]("phrase") into [french]("lang")
+    - how would they say say [goodbye]("phrase") in [hawaii]("lang")
+    - what is [spanish]("lang") for [hello]("phrase")
+    - how would i say [hello]("phrase") in [french]("lang")
+    - how can i say [i love you]("phrase") in [italy]("lang")
+    - what is [spanish]("lang") for [good morning]("lang")
+    - how do you say [it's snowing]("phrase") in [german]("lang")
+    - how would you say [can i borrow five dollars]("phrase") in [portuguese]("lang")
+    - do you know how to say [where is the restroom]("phrase") in [french]("lang")
+    - how would i say [pleased to meet you]("phrase") if i were [japanese]("lang")
+    - can you translate [hello]("phrase") into [swedish]("lang") for me
+    - can you translate [i love you]("phrase") into [french]("lang") for me
+    - can you translate [where's the bar]("phrase") into [irish]("lang") for me
+    - how would i say [goodbye]("phrase") if i were [norwegian]("lang")
+    - how would i say [i love you]("phrase") if i were [french]("lang")
+    - how would i say [hello]("phrase") if i were [swedish]("lang")
+    - can you translate [good bye]("phrase") into [russian]("lang") for me
+    - can you translate [i have to go pee]("phrase") into [korean]("lang") for me
+    - how would i say [i'm not guilty]("phrase") if i were [mexican]("lang")
+    - how do you say [thank you]("phrase") in [spanish]("lang")
+    - how does one say [thank you]("phrase") in [spanish]("lang")
+    - how can i say [thank you]("phrase") in [spanish]("lang")
+    - what is [thank you]("phrase") in [spanish]("lang")
+    - what is the way to say [thank you]("phrase") in [spanish]("lang")
+    - how do they say \[who is your father]("phrase")\ in [german]("lang")
+    - how do they say \[where's the bathroom]("phrase")\ in [spanish]("lang")
+    - how do they say \[how's it going]("phrase")\ in [swahili]("lang")
+    - how do they say \[i love you]("phrase")\ in [japanese]("lang")
+    - how do they say \[what's up]("phrase")\ in [chinese]("lang")
+    - how do you say [thank you]("phrase") in [german]("lang")
+    - how do you say [please]("phrase") in [arabic]("lang")
+    - how do you say [cat]("phrase") in ]spanish]("lang")
+    - how do you say [i'm hungry]("phrase") in [french]("lang")
+    - how do you say [i need coffee]("phrase") in [dutch]("lang")
+    - how do they say [yes]("phrase") in brazil]("lang")
+    - can you translate [cat]("phrase") into [russian]("lang") for me
+    - can you translate [bowl]("phrase") into [russian]("lang") for me
+    - how do they say [hello]("phrase") in [france]("lang")
+    - i wanna know a phrase in [spanish]("lang")
+    - can you translate [bat]("phrase") into [russian]("lang") for me
+    - how do they say [no]("phrase") in [germany]("lang")
+    - can you translate [hi]("phrase") into [spanish]("lang") for me
+    - i wanna learn a phrase in [russian]("lang")
+    - how do they say [hello]("phrase") in [germany]("lang")
+    - can you translate [milk]("phrase") into [spanish]("lang") for me
+    - how do they say [hello]("phrase") in [brazil]("lang")
+    - how would you say [fly]("phrase"] in [italian]("lang")
+    - what's the [spanish]("lang") word for [pasta]("phrase")
+    - how would they say [butter]("phrase") in [zambia]("lang")
+    - how do you say [fast]("phrase") in [spanish]("lang")
+    - what's the word for [trees]("phrase") in [norway]("lang")
+    - how does one say [wonderful]("phrase") in [german]("lang")
+    - how do they say [tacos]("phrase") in [mexico]("lang")
+    - how would one say [cruiser]("phrase") in [china]("lang")
+    - what's the [french]("lang") word you use for [potato]("phrase")
+    - what would the word for [grass]("phrase") be in [finland]("lang")
+    - how do you say [please]("phrase") in [french]("lang")
+    - how would i say [nice to meet you]("phrase") if i were [russian]("lang")
+    - what is the right way to say [excuse me]("phrase") in [spanish]("lang")
+    - how do i say [i'm sorry]("phrase") in [chinese]("lang")
+    - how would i say [thank you]("phrase") if i were [mexican]("lang")
+    - how would i say [what is your name]("phrase") if i were [french]("lang")
+    - how would i say [i must be going now]("phrase") if i were [german]("lang")
     - how do i say bathroom in italian 
     - how might i say hello if i were scottish 
     - i must know how to say thank you in german 
