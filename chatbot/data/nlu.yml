@@ -93,33 +93,33 @@ nlu:
 
 - intent: translate
   examples: |
-    - in spanish meet me tomorrow is said how 
-    - in french how do i say see you later 
-    - how do you say hello in japanese 
-    - how do i ask about the weather in chinese 
-    - how can i say \cancel my order\ in french 
-    - how do i say dinner in spanish 
-    - how do you say good bye in french 
-    - how do i say thank you in spanish 
-    - how do i say good bye in chinese 
-    - how can i say thank you very much in chinese 
-    - i need to know how to say hello in france 
-    - would you tell me how to say goodbye in france 
-    - how do you say hello in mexico 
-    - tell me how to say hello in chile 
-    - i want to know how to say goodbye in france 
-    - would you translate a sentence into russian for me please 
-    - would you translate a phrase into mandarin for me 
-    - can you translate this name into spanish for me please 
-    - could you translate this into chinese for me please 
-    - could you translate water into dutch for me 
-    - what expression would i use to say i love you if i were an italian 
-    - can you tell me how to say 'i do not speak much spanish' in spanish 
-    - what is the equivalent of 'life is good' in french 
-    - tell me how to say 'it is a beautiful morning' in italian 
-    - if i were mongolian how would i say that i am a tourist 
-    - how do i say 'hotel' in finnish 
-    - i need you to translate the sentence 'we will be there soon' into portuguese 
+    - in [spanish]("lang") [meet me tomorrow]("phrase") is said how
+    - in [french]("lang") how do i say [see you later]("phrase")
+    - how do you say [hello]("phrase") in [japanese]("lang")
+    - how do i [ask about the weather]("phrase") in [chinese]("lang")
+    - how can i say \[cancel my order]("phrase")\ in [french]("lang")
+    - how do i say [dinner]("phrase") in [spanish]("lang")
+    - how do you say [good bye]("phrase") in [french]("lang")
+    - how do i say [thank you]("phrase") in [spanish]("lang")
+    - how do i say [good bye]("phrase") in [chinese]("lang")
+    - how can i say [thank you very much]("phrase") in [chinese]("lang")
+    - i need to know how to say [hello]("phrase") in [france]("lang")
+    - would you tell me how to say [goodbye]("phrase") in [france]("lang")
+    - how do you say [hello]("phrase") in [mexico]("lang")
+    - tell me how to say [hello]("phrase") in [chile]("lang")
+    - i want to know how to say [goodbye]("phrase") in [france]("lang")
+    - would you translate a sentence into [russian]("lang") for me please
+    - would you translate a phrase into [mandarin]("lang") for me
+    - can you translate this name into [spanish]("lang") for me please
+    - could you translate this into [chinese]("lang") for me please
+    - could you translate [water]("phrase") into [dutch]("lang") for me
+    - what expression would i use to say [i love you]("phrase") if i were an [italian]("lang")
+    - can you tell me how to say '[i do not speak much spanish]("phrase")' in [spanish]("lang")
+    - what is the equivalent of '[life is good]("phrase")' in french["lang"]
+    - tell me how to say '[it is a beautiful morning]("phrase")' in [italian]("lang")
+    - if i were [mongolian]("lang") how would i say that [i am a tourist]("phrase")
+    - how do i say '[hotel]("phrase")' in [finnish]("lang")
+    - i need you to translate the sentence '[we will be there soon]("phrase")' into [portuguese]("lang")
     - please tell me how to ask for a taxi in french 
     - can you tell me how i would say 'more bread please' in french 
     - what is the correct way to say 'i am a visitor' in french 
