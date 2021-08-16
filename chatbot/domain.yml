@@ -10,6 +10,16 @@ intents:
   - bot_challenge
   - translate
 
+entities:
+  - phrase
+  - lang
+
+slots:
+  phrase:
+    type: any
+  lang:
+    type: any
+
 responses:
   utter_greet:
   - text: "Hey! How are you?"
@@ -31,7 +41,7 @@ responses:
   - text: "I am a bot, powered by Rasa."
 
   utter_translation:
-  - text: "You want to translate, don't you?"
+  - text: "You want to translate {phrase} to {lang}, don't you?"
 
 session_config:
   session_expiration_time: 60
