@@ -120,42 +120,42 @@ nlu:
     - if i were [mongolian]("lang") how would i say that [i am a tourist]("phrase")
     - how do i say '[hotel]("phrase")' in [finnish]("lang")
     - i need you to translate the sentence '[we will be there soon]("phrase")' into [portuguese]("lang")
-    - please tell me how to ask for a taxi in french 
-    - can you tell me how i would say 'more bread please' in french 
-    - what is the correct way to say 'i am a visitor' in french 
-    - how would i say 'i don't know the answer' in spanish 
-    - i would like to know the proper way to greet an adult in portuguese 
-    - what words would i use to tell someone i am lost if i were japanese 
-    - how would i say thank you if i were russian 
-    - can you tell me how i would normally say thank you as a french person 
-    - i would like to know how to say hello in french 
-    - if i were english how would i say subway 
-    - i would i say subway if i were english 
-    - how do you say hi in french 
-    - in england how do they say subway 
-    - translate hello in french 
-    - how is hello said in french 
-    - what do you call a subway if you were english 
-    - how would i say if i were english subway 
-    - how should i say hello in french 
-    - how could i say twin in chinese 
-    - how can i say not now in spanish 
-    - what do spanish people say for the word cow 
-    - translate hello to english 
-    - how do you say goodbye in spanish 
-    - how would i say love in french 
-    - could you translate atm machine into english 
-    - please translate grocery into french for me 
-    - how do germans say goodnight 
-    - tell me how the russians say notebook 
-    - how do vietnameses people say hello 
-    - how do i say thank you in japanese 
-    - what is latin for i love you 
-    - how can i thank somebody in italian 
-    - how do i say you're welcome in chinese 
-    - translate hello english to french 
-    - what is hello in french 
-    - what phrase means goodbye in hawaii 
+    - please tell me how to [ask for a taxi]("phrase") in [french]("lang")
+    - can you tell me how i would say '[more bread please]("phrase")' in [french]("lang")
+    - what is the correct way to say '[i am a visitor]("phrase")' in [french]("lang")
+    - how would i say '[i don't know the answer]("phrase")' in [spanish]("lang")
+    - i would like to know the proper way to [greet an adult]("phrase") in [portuguese]("lang")
+    - what words would i use to [tell someone i am lost]("phrase") if i were [japanese]("lang")
+    - how would i say [thank you]("phrase") if i were [russian]("lang")
+    - can you tell me how i would normally say [thank you]("phrase") as a [french]("lang") person
+    - i would like to know how to say [hello]("phrase") in [french]("lang")
+    - if i were [english]("lang") how would i say [subway]("phrase")
+    - i would i say [subway]("phrase") if i were [english]("lang")
+    - how do you say [hi]("phrase") in [french]("lang")
+    - in [england]("lang") how do they say [subway]("phrase")
+    - translate [hello]("phrase") in [french]("lang")
+    - how is [hello]("phrase") said in [french]("lang")
+    - what do you [call a subway]("phrase") if you were [english]("lang")
+    - how would i say if i were [english]("lang") [subway]("phrase")
+    - how should i say [hello]("phrase") in [french]("lang")
+    - how could i say [twin]("phrase") in [chinese]("lang")
+    - how can i say [not now]("phrase") in [spanish]("lang")
+    - what do [spanish]("lang") people say for the word [cow]("phrase")
+    - translate [hello]("phrase") to [english]("lang")
+    - how do you say [goodbye]("phrase") in [spanish]("lang")
+    - how would i say [love]("phrase") in [french]("lang")
+    - could you translate [atm machine]("phrase") into [english]("lang")
+    - please translate [grocery]("phrase") into [french]("lang") for me 
+    - how do [germans]("lang") say [goodnight]("phrase")
+    - tell me how the [russians]("lang") say [notebook]("phrase")
+    - how do [vietnameses]("lang") people say [hello]("phrase")
+    - how do i say [thank you]("phrase") in [japanese]("lang")
+    - what is [latin]("lang") for [i love you]("phrase")
+    - how can i [thank somebody]("phrase"] in [italian]("lang")
+    - how do i say [you're welcome]("phrase"] in [chinese]("lang")
+    - translate [hello english]("phrase"] to [french]("lang")
+    - what is [hello]("phrase") in [french]("lang")
+    - what phrase means [goodbye]("phrase") in [hawaii]("lang")
     - what spanish word means hello 
     - translate hello to french 
     - translate english to french hello 
