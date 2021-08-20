@@ -10,3 +10,15 @@ A chatbot created for PLN Subject
 
 ### Setup
 pip install -r requirements.txt
+
+### Running
+
+To run the chatbot, you need to follow the steps below:
+
+1. Setup elasticsearch and the search mechanism. For do that, you need to follow instructions in `search/README.md`
+2. Make sure you have installed the libs listed in `requirements.txt`
+3. Go to chatbot repository
+    - Open two terminal windows
+    - In the first one, run `rasa run actions`
+    - In the second one, run `rasa shell`
+4. Finally you're ready to interact with the chatbot!
