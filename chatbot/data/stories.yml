@@ -2,36 +2,26 @@ version: "2.0"
 
 stories:
 
-- story: happy path
+- story: translate happy path
   steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_great
-  - action: utter_happy
-
-- story: sad path 1
-  steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_unhappy
-  - action: utter_cheer_up
+  - intent: translate
+  - action: utter_translation
+  - intent: affirm
+  - action: action_translate
   - action: utter_did_that_help
   - intent: affirm
   - action: utter_happy
 
-- story: sad path 2
+- story: translate sad path
   steps:
-  - intent: greet
-  - action: utter_greet
-  - intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - intent: deny
-  - action: utter_goodbye
-
-- story: translate path
-  steps:
-  - intent: greet
-  - action: utter_greet
   - intent: translate
   - action: utter_translation
+  - intent: affirm
+  - action: action_translate
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_sad
+  - action: action_translate_google
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_sad

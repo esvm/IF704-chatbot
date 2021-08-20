@@ -1,5 +1,4 @@
 version: "2.0"
-
 nlu:
 - intent: greet
   examples: |
@@ -16,7 +15,6 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
-
 - intent: goodbye
   examples: |
     - good afternoon
@@ -30,7 +28,6 @@ nlu:
     - see you around
     - bye bye
     - see you later
-
 - intent: affirm
   examples: |
     - yes
@@ -39,7 +36,6 @@ nlu:
     - of course
     - that sounds good
     - correct
-
 - intent: deny
   examples: |
     - no
@@ -49,7 +45,7 @@ nlu:
     - don't like that
     - no way
     - not really
-
+    - No
 - intent: mood_great
   examples: |
     - perfect
@@ -66,7 +62,6 @@ nlu:
     - so so perfect
     - so good
     - so perfect
-
 - intent: mood_unhappy
   examples: |
     - my day was horrible
@@ -83,14 +78,12 @@ nlu:
     - extremly sad
     - so saad
     - so sad
-
 - intent: bot_challenge
   examples: |
     - are you a bot?
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
-
 - intent: translate
   examples: |
     - in [spanish](lang) [meet me tomorrow](phrase) is said how
@@ -243,3 +236,17 @@ nlu:
     - how do you say [dog](phrase) in [spanish](lang)
     - [dog](phrase) in [spanish](lang)
     - what's the [spanish](lang) word for [dog](phrase)
+    - translate [cat](phrase) to [portuguese](lang)
+    - how can I say [door](phrase) in [italian](lang)
+    - in [portuguese](lang) how do I say [window](phrase)
+    - in [portuguese](lang) how can I say [see you tomorrow](phrase)?
+    - translate [door](phrase) to [portuguese](lang)
+    - translate [window](phrase) to [portuguese](lang)
+    - translate [fire](phrase) to [portuguese](lang)
+    - translate [beach](phrase) to [portuguese](lang)
+    - translate [floor](phrase) to [portuguese](lang)
+    - how can I say [car](phrase) in [french](lang)
+    - translate [beach](phrase) to [portuguese](lang)
+    - translate [sound](phrase) to [portuguese](lang)
+    - translate [calm](phrase) to [portuguese](lang)
+    - translate [good](phrase) to [portuguese](lang)
