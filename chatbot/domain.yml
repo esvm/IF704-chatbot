@@ -16,23 +16,22 @@ entities:
 
 slots:
   phrase:
-    type: any
+    type: text
   lang:
-    type: any
+    type: text
 
 responses:
   utter_greet:
   - text: "Hey! How are you?"
-
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
 
   utter_did_that_help:
   - text: "Did that help you?"
 
   utter_happy:
   - text: "Great, carry on!"
+
+  utter_sad:
+  - text: "Sorry to hear that. I'm going to google for you!"
 
   utter_goodbye:
   - text: "Bye"
@@ -42,6 +41,14 @@ responses:
 
   utter_translation:
   - text: "You want to translate {phrase} to {lang}, don't you?"
+
+actions:
+  - action_translate
+  - action_translate_google
+  - utter_did_that_help
+  - utter_happy
+  - utter_sad
+  - utter_goodbye
 
 session_config:
   session_expiration_time: 60
