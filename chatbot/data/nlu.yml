@@ -15,9 +15,10 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+    - goodafternoon
 - intent: goodbye
   examples: |
-    - good afternoon
+    - have good afternoon
     - cu
     - good by
     - cee you later
