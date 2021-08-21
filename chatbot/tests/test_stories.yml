@@ -1,6 +1,8 @@
 #### This file contains tests to evaluate that your bot behaves as expected.
 #### If you want to learn more, please see the docs: https://rasa.com/docs/rasa/testing-your-assistant
 
+version: "2.0"
+
 stories:
 - story: happy path 1
   steps:
@@ -17,3 +19,47 @@ stories:
       yes
     intent: affirm
   - action: utter_happy
+
+- story: translate happy path 2
+  steps:
+  - user: |
+      translate [door](phrase) to [portuguese](lang)
+    intent: translate
+  - action: utter_translation
+  - user: |
+      yes
+    intent: affirm
+  - action: action_translate
+  - action: utter_did_that_help
+  - user: |
+      no
+    intent: deny
+  - action: utter_sad
+  - action: action_translate_google
+  - action: utter_did_that_help
+  - user: |
+      yes
+    intent: affirm
+  - action: utter_happy
+
+- story: translate sad path
+  steps:
+  - user: |
+      translate [door](phrase) to [portuguese](lang)
+    intent: translate
+  - action: utter_translation
+  - user: |
+      yes
+    intent: affirm
+  - action: action_translate
+  - action: utter_did_that_help
+  - user: |
+      no
+    intent: deny
+  - action: utter_sad
+  - action: action_translate_google
+  - action: utter_did_that_help
+  - user: |
+      no
+    intent: deny
+  - action: utter_sad_end

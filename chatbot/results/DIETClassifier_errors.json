@@ -1,0 +1,968 @@
+[
+  {
+    "text": "how can i stop",
+    "entities": [
+      {
+        "start": 10,
+        "end": 14,
+        "value": "stop",
+        "entity": "phrase] in [japanese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [italian](lang",
+        "start": 10,
+        "end": 14,
+        "confidence_entity": 0.6739987134933472,
+        "value": "stop",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate stop",
+    "entities": [
+      {
+        "start": 10,
+        "end": 14,
+        "value": "stop",
+        "entity": "phrase] to [arabic](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [french](lang",
+        "start": 10,
+        "end": 14,
+        "confidence_entity": 0.4821673035621643,
+        "value": "stop",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say stop",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "value": "stop",
+        "entity": "phrase] in [hindi](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [italian](lang",
+        "start": 13,
+        "end": 17,
+        "confidence_entity": 0.5114129185676575,
+        "value": "stop",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i iwon",
+    "entities": [
+      {
+        "start": 10,
+        "end": 14,
+        "value": "iwon",
+        "entity": "phrase] in [bengali](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [arabic](lang",
+        "start": 10,
+        "end": 14,
+        "confidence_entity": 0.4576999247074127,
+        "value": "iwon",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate iwon",
+    "entities": [
+      {
+        "start": 10,
+        "end": 14,
+        "value": "iwon",
+        "entity": "phrase] to [bengali](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [arabic](lang",
+        "start": 10,
+        "end": 14,
+        "confidence_entity": 0.4129588305950165,
+        "value": "iwon",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say iwon",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "value": "iwon",
+        "entity": "phrase] in [french](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [portuguese](lang",
+        "start": 13,
+        "end": 17,
+        "confidence_entity": 0.6270017623901367,
+        "value": "iwon",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i gotit",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "gotit",
+        "entity": "phrase] in [french](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [chinese](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.37741535902023315,
+        "value": "gotit",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say gotit",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "value": "gotit",
+        "entity": "phrase] in [japanese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [russian](lang",
+        "start": 13,
+        "end": 18,
+        "confidence_entity": 0.3839628994464874,
+        "value": "gotit",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate gotit",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "gotit",
+        "entity": "phrase] to [arabic](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [chinese](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.3637081980705261,
+        "value": "gotit",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i gotit",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "gotit",
+        "entity": "phrase] in [spanish](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [chinese](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.37741535902023315,
+        "value": "gotit",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate gotit",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "gotit",
+        "entity": "phrase] to [russian](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [chinese](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.3637081980705261,
+        "value": "gotit",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i gotit",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "gotit",
+        "entity": "phrase] in [portuguese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [chinese](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.37741535902023315,
+        "value": "gotit",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say gotit",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "value": "gotit",
+        "entity": "phrase] in [portuguese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [russian](lang",
+        "start": 13,
+        "end": 18,
+        "confidence_entity": 0.3839628994464874,
+        "value": "gotit",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say hopin",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "value": "hopin",
+        "entity": "phrase] in [chinese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [spanish](lang",
+        "start": 13,
+        "end": 18,
+        "confidence_entity": 0.4864163398742676,
+        "value": "hopin",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate hopin",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "hopin",
+        "entity": "phrase] to [french](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [hindi](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.5523366332054138,
+        "value": "hopin",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i ifell",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "ifell",
+        "entity": "phrase] in [chinese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [japanese](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.5192214250564575,
+        "value": "ifell",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate ifell",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "ifell",
+        "entity": "phrase] to [japanese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [hindi](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.7115657925605774,
+        "value": "ifell",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate noway",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "noway",
+        "entity": "phrase] to [japanese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [arabic](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.23909172415733337,
+        "value": "noway",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i noway",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "noway",
+        "entity": "phrase] in [french](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [japanese](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.31934791803359985,
+        "value": "noway",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say noway",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "value": "noway",
+        "entity": "phrase] in [japanese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [hindi](lang",
+        "start": 13,
+        "end": 18,
+        "confidence_entity": 0.3898056149482727,
+        "value": "noway",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i noway",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "noway",
+        "entity": "phrase] in [arabic](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [japanese](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.31934791803359985,
+        "value": "noway",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say noway",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "value": "noway",
+        "entity": "phrase] in [bengali](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [hindi](lang",
+        "start": 13,
+        "end": 18,
+        "confidence_entity": 0.3898056149482727,
+        "value": "noway",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate noway",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "noway",
+        "entity": "phrase] to [italian](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [arabic](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.23909172415733337,
+        "value": "noway",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i noway",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "noway",
+        "entity": "phrase] in [spanish](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [japanese](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.31934791803359985,
+        "value": "noway",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate noway",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "noway",
+        "entity": "phrase] to [russian](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [arabic](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.23909172415733337,
+        "value": "noway",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate noway",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "noway",
+        "entity": "phrase] to [bengali](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [arabic](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.23909172415733337,
+        "value": "noway",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say really",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "value": "really",
+        "entity": "phrase] in [portuguese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [russian](lang",
+        "start": 13,
+        "end": 19,
+        "confidence_entity": 0.6247110366821289,
+        "value": "really",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate really",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "really",
+        "entity": "phrase] to [chinese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [portuguese](lang",
+        "start": 10,
+        "end": 16,
+        "confidence_entity": 0.49340754747390747,
+        "value": "really",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i wewon",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "wewon",
+        "entity": "phrase] in [hindi](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [arabic](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.6765391230583191,
+        "value": "wewon",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate wewon",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "value": "wewon",
+        "entity": "phrase] to [portuguese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [spanish](lang",
+        "start": 10,
+        "end": 15,
+        "confidence_entity": 0.515647292137146,
+        "value": "wewon",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say wewon",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "value": "wewon",
+        "entity": "phrase] in [bengali](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [russian](lang",
+        "start": 13,
+        "end": 18,
+        "confidence_entity": 0.6377665400505066,
+        "value": "wewon",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i becalm",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "becalm",
+        "entity": "phrase] in [portuguese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [spanish](lang",
+        "start": 10,
+        "end": 16,
+        "confidence_entity": 0.686910092830658,
+        "value": "becalm",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say becalm",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "value": "becalm",
+        "entity": "phrase] in [hindi](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [japanese](lang",
+        "start": 13,
+        "end": 19,
+        "confidence_entity": 0.5753446817398071,
+        "value": "becalm",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate becalm",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "becalm",
+        "entity": "phrase] to [french](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [spanish](lang",
+        "start": 10,
+        "end": 16,
+        "confidence_entity": 0.4824927747249603,
+        "value": "becalm",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i befair",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "befair",
+        "entity": "phrase] in [bengali](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [italian](lang",
+        "start": 10,
+        "end": 16,
+        "confidence_entity": 0.30660149455070496,
+        "value": "befair",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say befair",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "value": "befair",
+        "entity": "phrase] in [french](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [japanese](lang",
+        "start": 13,
+        "end": 19,
+        "confidence_entity": 0.6024670004844666,
+        "value": "befair",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i befair",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "befair",
+        "entity": "phrase] in [russian](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [italian](lang",
+        "start": 10,
+        "end": 16,
+        "confidence_entity": 0.30660149455070496,
+        "value": "befair",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate befair",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "befair",
+        "entity": "phrase] to [russian](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [japanese](lang",
+        "start": 10,
+        "end": 16,
+        "confidence_entity": 0.5420907139778137,
+        "value": "befair",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say benice",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "value": "benice",
+        "entity": "phrase] in [chinese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [portuguese](lang",
+        "start": 13,
+        "end": 19,
+        "confidence_entity": 0.32675305008888245,
+        "value": "benice",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate benice",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "benice",
+        "entity": "phrase] to [bengali](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [arabic](lang",
+        "start": 10,
+        "end": 16,
+        "confidence_entity": 0.36474913358688354,
+        "value": "benice",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say benice",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "value": "benice",
+        "entity": "phrase] in [russian](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [portuguese](lang",
+        "start": 13,
+        "end": 19,
+        "confidence_entity": 0.32675305008888245,
+        "value": "benice",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i benice",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "benice",
+        "entity": "phrase] in [spanish](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [italian](lang",
+        "start": 10,
+        "end": 16,
+        "confidence_entity": 0.4084118604660034,
+        "value": "benice",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate benice",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "benice",
+        "entity": "phrase] to [japanese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [arabic](lang",
+        "start": 10,
+        "end": 16,
+        "confidence_entity": 0.36474913358688354,
+        "value": "benice",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how do i say callus",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "value": "callus",
+        "entity": "phrase] in [portuguese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [chinese](lang",
+        "start": 13,
+        "end": 19,
+        "confidence_entity": 0.635127067565918,
+        "value": "callus",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "how can i callus",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "callus",
+        "entity": "phrase] in [hindi](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] in [chinese](lang",
+        "start": 10,
+        "end": 16,
+        "confidence_entity": 0.9273344278335571,
+        "value": "callus",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  },
+  {
+    "text": "translate callus",
+    "entities": [
+      {
+        "start": 10,
+        "end": 16,
+        "value": "callus",
+        "entity": "phrase] to [portuguese](lang"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "phrase] to [japanese](lang",
+        "start": 10,
+        "end": 16,
+        "confidence_entity": 0.46969062089920044,
+        "value": "callus",
+        "extractor": "DIETClassifier"
+      }
+    ]
+  }
+]

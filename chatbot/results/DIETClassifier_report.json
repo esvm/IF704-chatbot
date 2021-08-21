@@ -1,0 +1,222 @@
+{
+  "phrase] in [italian](lang": {
+    "precision": 0.6428571428571429,
+    "recall": 1.0,
+    "f1-score": 0.782608695652174,
+    "support": 9,
+    "confused_with": {}
+  },
+  "phrase] to [portuguese](lang": {
+    "precision": 0.8,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.7272727272727272,
+    "support": 6,
+    "confused_with": {
+      "phrase] to [spanish](lang": 1,
+      "phrase] to [japanese](lang": 1
+    }
+  },
+  "phrase] to [japanese](lang": {
+    "precision": 0.6,
+    "recall": 0.5,
+    "f1-score": 0.5454545454545454,
+    "support": 6,
+    "confused_with": {
+      "phrase] to [arabic](lang": 2,
+      "phrase] to [hindi](lang": 1
+    }
+  },
+  "phrase] in [portuguese](lang": {
+    "precision": 0.7272727272727273,
+    "recall": 0.6153846153846154,
+    "f1-score": 0.6666666666666667,
+    "support": 13,
+    "confused_with": {
+      "phrase] in [russian](lang": 2,
+      "phrase] in [chinese](lang": 2
+    }
+  },
+  "phrase] in [spanish](lang": {
+    "precision": 0.7142857142857143,
+    "recall": 0.625,
+    "f1-score": 0.6666666666666666,
+    "support": 8,
+    "confused_with": {
+      "phrase] in [chinese](lang": 1,
+      "phrase] in [italian](lang": 1
+    }
+  },
+  "phrase] in [hindi](lang": {
+    "precision": 0.75,
+    "recall": 0.6,
+    "f1-score": 0.6666666666666665,
+    "support": 10,
+    "confused_with": {
+      "phrase] in [arabic](lang": 1,
+      "phrase] in [chinese](lang": 1
+    }
+  },
+  "phrase] in [arabic](lang": {
+    "precision": 0.7142857142857143,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.7692307692307692,
+    "support": 6,
+    "confused_with": {
+      "phrase] in [japanese](lang": 1
+    }
+  },
+  "phrase] in [bengali](lang": {
+    "precision": 1.0,
+    "recall": 0.42857142857142855,
+    "f1-score": 0.6,
+    "support": 7,
+    "confused_with": {
+      "phrase] in [russian](lang": 1,
+      "phrase] in [arabic](lang": 1
+    }
+  },
+  "phrase] to [french](lang": {
+    "precision": 0.8571428571428571,
+    "recall": 0.75,
+    "f1-score": 0.7999999999999999,
+    "support": 8,
+    "confused_with": {
+      "phrase] to [spanish](lang": 1,
+      "phrase] to [hindi](lang": 1
+    }
+  },
+  "phrase": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3842,
+    "confused_with": {}
+  },
+  "phrase] to [chinese](lang": {
+    "precision": 0.6,
+    "recall": 0.75,
+    "f1-score": 0.6666666666666665,
+    "support": 4,
+    "confused_with": {
+      "phrase] to [portuguese](lang": 1
+    }
+  },
+  "phrase] in [chinese](lang": {
+    "precision": 0.6666666666666666,
+    "recall": 0.7692307692307693,
+    "f1-score": 0.7142857142857142,
+    "support": 13,
+    "confused_with": {
+      "phrase] in [portuguese](lang": 1,
+      "phrase] in [spanish](lang": 1
+    }
+  },
+  "phrase] to [spanish](lang": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 6,
+    "confused_with": {}
+  },
+  "phrase] in [french](lang": {
+    "precision": 1.0,
+    "recall": 0.6363636363636364,
+    "f1-score": 0.7777777777777778,
+    "support": 11,
+    "confused_with": {
+      "phrase] in [japanese](lang": 2,
+      "phrase] in [portuguese](lang": 1
+    }
+  },
+  "phrase] to [italian](lang": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 3,
+    "confused_with": {
+      "phrase] to [arabic](lang": 1
+    }
+  },
+  "phrase] in [japanese](lang": {
+    "precision": 0.6,
+    "recall": 0.75,
+    "f1-score": 0.6666666666666665,
+    "support": 12,
+    "confused_with": {
+      "phrase] in [russian](lang": 1,
+      "phrase] in [hindi](lang": 1
+    }
+  },
+  "phrase] in [russian](lang": {
+    "precision": 0.6,
+    "recall": 0.75,
+    "f1-score": 0.6666666666666665,
+    "support": 8,
+    "confused_with": {
+      "phrase] in [portuguese](lang": 1,
+      "phrase] in [italian](lang": 1
+    }
+  },
+  "phrase] to [bengali](lang": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3,
+    "confused_with": {
+      "phrase] to [arabic](lang": 3
+    }
+  },
+  "phrase] to [russian](lang": {
+    "precision": 1.0,
+    "recall": 0.25,
+    "f1-score": 0.4,
+    "support": 4,
+    "confused_with": {
+      "phrase] to [japanese](lang": 1,
+      "phrase] to [chinese](lang": 1,
+      "phrase] to [arabic](lang": 1
+    }
+  },
+  "phrase] to [hindi](lang": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 4,
+    "confused_with": {}
+  },
+  "phrase] to [arabic](lang": {
+    "precision": 0.36363636363636365,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.4705882352941177,
+    "support": 6,
+    "confused_with": {
+      "phrase] to [french](lang": 1,
+      "phrase] to [chinese](lang": 1
+    }
+  },
+  "lang": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3642,
+    "confused_with": {}
+  },
+  "micro avg": {
+    "precision": 0.9939719564932512,
+    "recall": 0.9939719564932512,
+    "f1-score": 0.9939719564932512,
+    "support": 7631
+  },
+  "macro avg": {
+    "precision": 0.7296733569460842,
+    "recall": 0.6935401719492629,
+    "f1-score": 0.6838346055504855,
+    "support": 7631
+  },
+  "weighted avg": {
+    "precision": 0.9945501971055634,
+    "recall": 0.9939719564932512,
+    "f1-score": 0.9937845039411841,
+    "support": 7631
+  }
+}
