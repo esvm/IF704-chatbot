@@ -20,13 +20,16 @@ def load_languages_in_memory():
 def get_language_code(language: Text) -> Text:
     return languages[language.lower().strip()]
 
+
 def translate_text(text, language):
     if isinstance(text, six.binary_type):
         text = text.decode("utf-8")
+    
+    language_code = get_language_code(language)
     result = translate_client.translate(
         values=text, 
         source_language="en", 
-        target_language=get_language_code(language)
+        target_language=language_code
     )
 
     return result["translatedText"]

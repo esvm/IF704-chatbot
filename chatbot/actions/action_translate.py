@@ -36,7 +36,12 @@ class ActionTranslate(Action):
         else:
             dispatcher.utter_message(text=u"I didn't find anything in my database. So I'll search on Google")
             # If don't find in ES, translate in Google and save it to ES
-            response = translate_text(sentence, language)
+            response = ""
+            try:
+                response = translate_text(sentence, language)
+            except KeyError:
+                dispatcher.utter_message(text="Sorry I can't translate to this language.")
+                return []
 
             # Display result to the user
             dispatcher.utter_message(text=u"The translation is: {}".format(response))
@@ -64,7 +69,12 @@ class ActionTranslateGoogle(Action):
             return []
 
         # Translate text using Google
-        response = translate_text(sentence, language)
+        response = ""
+        try:
+            response = translate_text(sentence, language)
+        except KeyError:
+            dispatcher.utter_message(text="Sorry I can't translate to this language.")
+            return []
 
         # Display result to the user
         dispatcher.utter_message(text=u"The translation is: {}".format(response))
