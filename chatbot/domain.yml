@@ -11,8 +11,8 @@ intents:
   - translate
 
 entities:
-  - phrase
-  - lang
+ - phrase
+ - lang
 
 slots:
   phrase:
@@ -32,6 +32,9 @@ responses:
 
   utter_sad:
   - text: "Sorry to hear that. I'm going to google for you!"
+
+  utter_sad_end:
+  - text: "Sorry to hear that."
 
   utter_goodbye:
   - text: "Bye"

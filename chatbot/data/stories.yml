@@ -12,6 +12,20 @@ stories:
   - intent: affirm
   - action: utter_happy
 
+- story: translate happy path 2
+  steps:
+  - intent: translate
+  - action: utter_translation
+  - intent: affirm
+  - action: action_translate
+  - action: utter_did_that_help
+  - intent: deny
+  - action: utter_sad
+  - action: action_translate_google
+  - action: utter_did_that_help
+  - intent: affirm
+  - action: utter_happy
+
 - story: translate sad path
   steps:
   - intent: translate
@@ -24,4 +38,4 @@ stories:
   - action: action_translate_google
   - action: utter_did_that_help
   - intent: deny
-  - action: utter_sad
+  - action: utter_sad_end
