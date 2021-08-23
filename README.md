@@ -22,3 +22,9 @@ To run the chatbot, you need to follow the steps below:
     - In the first one, run `rasa run actions`
     - In the second one, run `rasa shell`
 4. Finally you're ready to interact with the chatbot!
+### Video
+
+https://youtu.be/JbZFoJJlO_I
+
+### Slide
+https://docs.google.com/presentation/d/10YjaWHdu2dFqiFfs8P-x3TiOvQ4tZMxRq9vlJFvcYt8/edit?usp=sharing
